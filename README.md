@@ -2,7 +2,7 @@
 
 **enjoy of my new sass project**
 
-- [Demo Project](https://github.com/ziba-irani/SassProject)
+- [Demo Project](https://ziba-irani.github.io/SassProject/)
 
 - Developed by ziba irani
 
